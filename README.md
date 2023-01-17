@@ -15,7 +15,6 @@
 <li>Login / Register</li>
 </ol>
 <h3>Platform some sscreenshort</h3>
-<div>
 <span>Home page</span>
 <img src="/image1.PNG"alt =""/>
 <span>Product Page</span>
@@ -30,7 +29,7 @@
 <img src="/Register.PNG"alt =""/>
 <span>Login page</span>
 <img src="/Login.PNG"alt =""/>
-</div>
+
 
 <h3>Admin Dashboard</h3>
 
@@ -45,7 +44,6 @@
 <li>Login</li>
 </ol>
 <h3>Dashboard somess screenshort</h3>
-<div>
 <span>Dashboard page</span>
 <img src="/Dashboard.PNG"alt =""/>
 <span>All User Page</span>
@@ -54,6 +52,5 @@
 <img src="/All products.PNG"alt =""/>
 <span>Login page</span>
 <img src="/Login.PNG"alt =""/>
-</div>
 
 <video src="/BuyMe Tour.wmvs"/>
