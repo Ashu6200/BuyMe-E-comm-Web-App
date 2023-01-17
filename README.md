@@ -16,9 +16,9 @@
 </ol>
 <h3>Platform some sscreenshort</h3>
 <span>Home page</span>
-<img src="https://i.postimg.cc/PrLFy6w6/image1.png"alt =""/>
+<img src="https://i.postimg.cc/PrLFy6w6/image1.png" alt =""/>
 <span>Product Page</span>
-<img src="/Image3.PNG"alt =""/>
+<img src="/Image3.PNG"alt =""/>s
 <span>Account</span>
 <img src="/Account.PNG"alt =""/>
 <span>Order Page</span>
