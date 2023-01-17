@@ -18,7 +18,7 @@
 <span>Home page</span>
 <img src="https://i.postimg.cc/PrLFy6w6/image1.png" alt ="" style={{width: 900px}}/>
 <span>Product Page</span>
-<img src="/Image3.PNG"alt =""/>s
+<img src="/Image3.PNG"alt ="">
 <span>Account</span>
 <img src="/Account.PNG"alt =""/>
 <span>Order Page</span>
