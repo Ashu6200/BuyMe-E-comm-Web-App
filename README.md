@@ -50,7 +50,7 @@ All Users
 [![All-users.png](https://i.postimg.cc/NfYyY06m/All-users.png)](https://postimg.cc/Jt675Mdz)
 
 ## Video 
-<video controls>
-  <source src="https://www.veed.io/view/ba21aab2-8292-4df3-9ca6-f1153dd753c9?sharingWidget=true&panel=share" type="video/mp4">
+<video>
+  <source src="https://www.veed.io/view/ba21aab2-8292-4df3-9ca6-f1153dd753c9?sharingWidget=true&panel=share">
 </video>
 https://www.veed.io/view/ba21aab2-8292-4df3-9ca6-f1153dd753c9?sharingWidget=true&panel=share
