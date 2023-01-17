@@ -18,14 +18,8 @@ Homepage
 ![App Screenshot](https://i.postimg.cc/PrLFy6w6/image1.png)
 Products
 ![App Screenshot](https://i.postimg.cc/tRwvJLSX/Image3.png)
-Single Products
-![App Screenshot](https://i.postimg.cc/hJSBTYgB/single-Product.png)
 Cart
 ![App Screenshot](https://i.postimg.cc/ZR9gDZ7M/Cart.png)
-Wish
-![App Screenshot](https://i.postimg.cc/kDZqzwNQ/Wish.png)
-Login
-![App Screenshot](https://i.postimg.cc/wy4g6QCd/Login.png)
 
 
 
