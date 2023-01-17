@@ -14,12 +14,11 @@ BuyMe is Web App that follows the Material Design guidelines to ensure a great U
 - Order details,Updation tarcker
 - Login / Register
 
-## Main Platform Scrrenshots
 Homepage
 ![App Screenshot](https://i.postimg.cc/PrLFy6w6/image1.png)
 Products
 ![App Screenshot](https://i.postimg.cc/tRwvJLSX/Image3.png)
-SinglProducts
+Single Products
 ![App Screenshot](https://i.postimg.cc/hJSBTYgB/single-Product.png)
 Cart
 ![App Screenshot](https://i.postimg.cc/ZR9gDZ7M/Cart.png)
