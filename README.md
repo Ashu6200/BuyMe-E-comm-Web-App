@@ -16,7 +16,7 @@ BuyMe is Web App that follows the Material Design guidelines to ensure a great U
 
 ## Admin Features
 
-- Home{sale, user, post product tracker}
+- Home{sale, user, post product, order tracker}
 - Products{updation and delete of product}
 - Blog{updation and delete of blog}
 - Add Product and Blogs
