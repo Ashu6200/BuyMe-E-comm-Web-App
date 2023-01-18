@@ -42,8 +42,6 @@ Single Product
 ![App Screenshot](https://i.postimg.cc/7LzZ8vWf/single-Product.png)
 Admin Panel 
 ![Dashboard.png](https://i.postimg.cc/Bv8bNP39/Dashboard.png)
-Admin Panel 
-![Dashboard.png](https://i.postimg.cc/Bv8bNP39/Dashboard.png)
 All Products
 [![All-products.png](https://i.postimg.cc/J7jy9XkR/All-products.png)](https://postimg.cc/9zFF9rbk)
 All Users
